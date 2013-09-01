@@ -16,6 +16,7 @@
     "backbone.localStorage": "~1.1.6"
   },
   "devDependencies": {
-    "mocha": "~1.12.1"
+    "mocha": "~1.12.1",
+    "qunit": "~1.12.0"
   }
 }
